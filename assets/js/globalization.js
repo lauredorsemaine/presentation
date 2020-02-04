@@ -1,44 +1,44 @@
 var TranslatedStrings = [
     {
+		Key: "test",
         English: "Hello, I’m",
         French: "Bonjour, Je suis"
     },
     {
+		Key: "test1",
         English: "Parenting freelance writer and children's books author",
         French: "Écrivain freelance d'articles sur la parentalité et auteur de livres jeunesse"
     },
-	
     {
+		Key: "aboutMe",
         English: "About Me",
         French: "À propos de moi"
     },
-	
     {
+		Key: "test3",
         English: "Laure Dorsemaine is a freelance writer specialized in writing blog posts and articles about the parenting world. Her own experience as a mother combined with her dedication to research offer her clients articles of the best quality.",
         French: "Laure Dorsemaine est un écrivain freelance spécialisée dans la rédaction d'articles au sujet du monde de la parentalité. Son expérience personnelle en temps que mère combinée à ses recherches rigoureuses offrent à ses clients des articles de la meilleure qualité."
     },
-
     {
+		Key: "test4",
         English: "Laure is also a children's books author. She has written two picture books published by Belin.",
         French: "Laure est aussi auteur de livres jeunesse. Elle a écrit deux albums jeunesse publiés aux éditions Belin."
     },
-	
     {
+		Key: "test5",
         English: "Hiya! I'm Laure Dorsemaine",
         French: "Bonjour ! Je suis Laure Dorsemaine"
     },
-	
     {
-        English: "My two sons, aged 8 and 2, showed me everything there is to know about the parenting world. And I mean the good, the bad, and the ugly! Using my hard won parenting experience and with the power of research, I now write blog posts and articles to help other parents survive and enjoy the parenting world. As a French mother living in Scotland, I write both in English and in French. Do you want me to write for your readers? Contact me and let's work together!",
+		Key: "test6",
+        English: "My two sons, <br> aged 8 and 2, showed me everything there is to know about the parenting world. And I mean the good, the bad, and the ugly! Using my hard won parenting experience and with the power of research, I now write blog posts and articles to help other parents survive and enjoy the parenting world. As a French mother living in Scotland, I write both in English and in French. Do you want me to write for your readers? Contact me and let's work together!",
         French: "Mes deux fils, agés de 8 et 2 ans, m'ont montré tout ce qu'il y a à savoir sur le monde de la parentalité. Et je parle bien de tout, le bon, mais aussi le moins bon ! À l'aide de mon expérience de parent durement gagnée et grâce au pouvoir de la recherche, j'écris maintenant des articles de blogs et magazines pour aider les parents à survivre mais aussi à apprécier le monde de la parentalité. En temps que mère française habitant en Écosse, j'écris aussi bien en français qu'en anglais. Vous voulez que j'écrive pour vos lecteurs ? Contactez moi, et travaillons ensemble !"
     },
-	
     {
+		Key: "test7",
         English: "I also love to write stories for children to enjoy! If you are looking for an author to write children stories, I would love to hear from you!</p>",
         French: "J'adore également écrire des histoires pour les enfants ! Si vous cherchez un auteur jeunesse pour écrire des histoires que les enfants aimeront, j'aimerais beaucoup en savoir plus sur votre projet !"
     }
-	
-    
 ];
 
 // Global var :(
@@ -76,30 +76,32 @@ var mlr = function({
             mlrLangInUse = languageDropdown[languageDropdown.selectedIndex].value;
             resolveAllMLStrings();
         });
+		
+        resolveAllMLStrings();
     })();
 
     function resolveAllMLStrings() {
         let stringsToBeResolved = document.querySelectorAll(`[${stringAttribute}]`);
         stringsToBeResolved.forEach(stringToBeResolved => {
-            let originaltextContent = stringToBeResolved.textContent;
-            let resolvedText = resolveMLString(originaltextContent, mLstrings);
+            let key = stringToBeResolved.getAttribute("translated-text");
+            let resolvedText = resolveMLString(mLstrings, key);
             stringToBeResolved.textContent = resolvedText;
         });
     }
 };
 
-function resolveMLString(stringToBeResolved, mLstrings) {
+function resolveMLString(mLstrings, key) {
     var matchingStringIndex = mLstrings.find(function(stringObj) {
         // Create an array of the objects values:
         let stringValues = Object.values(stringObj);
         // Now return if we can find that string anywhere in there
-        return stringValues.includes(stringToBeResolved);
+        return stringValues.includes(key);
     });
+	
     if (matchingStringIndex) {
         return matchingStringIndex[mlrLangInUse];
     } else {
-        // If we don't have a match in our language strings, return the original
-        return stringToBeResolved;
+        return "TO BE DEFINED!";
     }
 }
 
