@@ -5,7 +5,7 @@
     //===== Prealoder
     
     $(window).on('load', function(event) {
-        $('.preloader').delay(500).fadeOut(500);
+        $('.preloader').delay(200).fadeOut(500);
     });
     
     
@@ -119,8 +119,6 @@
             scrollTop: 0,
         }, 1500);
     });
-    
-
     
     //===== 
     

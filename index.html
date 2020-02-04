@@ -17,6 +17,7 @@
 
     <!--====== Bootstrap css ======-->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/bootstrap-select.min.css">
 
     <!--====== Line Icons css ======-->
     <link rel="stylesheet" href="assets/css/LineIcons.css">
@@ -29,6 +30,9 @@
 
     <!--====== Style css ======-->
     <link rel="stylesheet" href="assets/css/style.css">
+
+    <!--====== Globalization css ======-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/0.8.2/css/flag-icon.min.css">
 
 
 </head>
@@ -83,6 +87,8 @@
                                     <li class="nav-item"><a class="page-scroll" href="#contact">Contact</a></li>
                                 </ul>
                             </div> <!-- navbar collapse -->
+														
+							<select name="language" class="selectpicker" data-width="fit" id="languageDropdown"></select>
                         </nav> <!-- navbar -->
                     </div>
                 </div> <!-- row -->
@@ -124,9 +130,9 @@
                 <div class="row align-items-center">
                     <div class="col-xl-5 col-lg-6">
                         <div class="header-content-right">
-                            <h4 class="sub-title">Hello, I’m</h4>
+                            <h4 class="sub-title" translated-text>Hello, I’m</h4>
                             <h1 class="title">Laure Dorsemaine</h1>
-                            <p>Parenting freelance writer and children's books author</p>
+                            <p translated-text>Parenting freelance writer and children's books author</p>
                             <a class="main-btn" href="#work">View my Work</a>
                         </div> <!-- header content right -->
                     </div>
@@ -807,15 +813,18 @@
 
 
 
+    <!--====== Jquery js ======-->
+    <script src="assets/js/jquery-2.2.2.min.js"></script>
 
-
-
-    <!--====== jquery js ======-->
-    <script src="assets/js/vendor/modernizr-3.6.0.min.js"></script>
-    <script src="assets/js/vendor/jquery-1.12.4.min.js"></script>
 
     <!--====== Bootstrap js ======-->
+    <script src="assets/js/bootstrap-select.min.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>
+
+    <!--====== Modernizr js ======-->
+    <script src="assets/js/modernizr-3.6.0.min.js"></script>
+
+    <!--====== Popper js ======-->
     <script src="assets/js/popper.min.js"></script>
 
     <!--====== Magnific Popup js ======-->
@@ -837,6 +846,9 @@
     <script src="assets/js/jquery.easing.min.js"></script>
 
 
+    <!--====== Globalization js ======-->
+    <script src="assets/js/globalization.js"></script>
+	
     <!--====== Main js ======-->
     <script src="assets/js/main.js"></script>
 
