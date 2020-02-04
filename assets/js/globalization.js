@@ -1,11 +1,11 @@
 var TranslatedStrings = [
     {
         English: "Hello, I’m",
-        French: "Yo, Je suis"
+        French: "Bonjour, Je suis"
     },
     {
         English: "Parenting freelance writer and children's books author",
-        French: "Petite patate qui fait des livres pour des petites patates"
+        French: "Ecrivain freelance d'articles sur la parentalité et auteur de livres jeunesse"
     }
 ];
 
