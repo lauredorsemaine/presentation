@@ -31,13 +31,13 @@ var TranslatedStrings = [
     },
     {
         Key: "mesFilsUn",
-        English: "My two sons, aged 8 and 2, showed me everything there is to know about the parenting world. And I mean the good, the bad, and the ugly! Using my hard won parenting experience and with the power of research, I now write blog posts and articles to help other parents survive and enjoy the parenting world.",
-        French: "Mes deux fils, agés de 8 et 2 ans, m'ont montré tout ce qu'il y a à savoir sur le monde de la parentalité. Et je parle bien de tout, le bon, mais aussi le moins bon ! À l'aide de mon expérience de parent durement gagnée et grâce au pouvoir de la recherche, j'écris maintenant des articles de blogs et magazines pour aider les parents à survivre mais aussi à apprécier le monde de la parentalité."
+        English: "My two sons, aged 8 and 2, showed me everything there is to know about the parenting world. And I mean the good, the bad, and the ugly! Using my hard won parenting experience and with the power of research, I now write blog posts and articles to help other parents survive and enjoy the parenting world. As a French mother living in Scotland, I write both in English and in French. ",
+        French: "Mes deux fils, agés de 8 et 2 ans, m'ont montré tout ce qu'il y a à savoir sur le monde de la parentalité. Et je parle bien de tout, le bon, mais aussi le moins bon ! À l'aide de mon expérience de parent durement gagnée et grâce au pouvoir de la recherche, j'écris maintenant des articles de blogs et magazines pour aider les parents à survivre mais aussi à apprécier le monde de la parentalité. En temps que mère française habitant en Écosse, j'écris aussi bien en français qu'en anglais."
     },
     {
         Key: "mesFilsDeux",
-        English: "As a French mother living in Scotland, I write both in English and in French. Do you want me to write for your readers? Contact me and let's work together!",
-        French: "En temps que mère française habitant en Écosse, j'écris aussi bien en français qu'en anglais. Vous voulez que j'écrive pour vos lecteurs ? Contactez moi, et travaillons ensemble !"
+        English: "Do you want me to write for your readers? Contact me and let's work together!",
+        French: "Vous voulez que j'écrive pour vos lecteurs ? Contactez moi, et travaillons ensemble !"
     },
     {
         Key: "auteurJeunesse",
