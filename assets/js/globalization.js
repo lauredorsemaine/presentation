@@ -41,7 +41,7 @@ var TranslatedStrings = [
     },
     {
         Key: "auteurJeunesse",
-        English: "I also love to write stories for children to enjoy! If you are looking for an author to write children stories, I would love to hear from you!</p>",
+        English: "I also love to write stories for children to enjoy! If you are looking for an author to write children stories, I would love to hear from you!",
         French: "J'adore également écrire des histoires pour les enfants ! Si vous cherchez un auteur jeunesse pour écrire des histoires que les enfants aimeront, j'aimerais beaucoup en savoir plus sur votre projet !"
     },
     {
