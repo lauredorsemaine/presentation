@@ -46,13 +46,18 @@ var TranslatedStrings = [
     },
     {
         Key: "birth",
-        English: "<span>Date of birth:</span> 28 March 1991",
-        French: "<span>Date de naissance:</span> 28 mars 1991"
+        English: "Date of birth:",
+        French: "Date de naissance:"
+    },
+    {
+        Key: "birthDate",
+        English: "28 March 1991",
+        French: "28 mars 1991"
     },
     {
         Key: "location",
-        English: "<span>Location:</span> Scotland, UK",
-        French: "<span>Location:</span> Écosse, Royaume-Uni"
+        English: "Scotland, UK",
+        French: "Écosse, Royaume-Uni"
     },
 	
 ];
