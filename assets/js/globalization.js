@@ -30,12 +30,12 @@ var TranslatedStrings = [
 	
     {
         English: "My two sons, aged 8 and 2, showed me everything there is to know about the parenting world. And I mean the good, the bad, and the ugly! Using my hard won parenting experience and with the power of research, I now write blog posts and articles to help other parents survive and enjoy the parenting world. As a French mother living in Scotland, I write both in English and in French. Do you want me to write for your readers? Contact me and let's work together!",
-        French: "Mes deux fils, agés de 8 et 2 ans, m'ont montré tout ce qu'il y a à savoir sur le monde de la parentalité. Et je parle bien de tout, le bon, mais aussi le moins bon ! À l'aide de mon expérience de parent durement gagnée "
+        French: "Mes deux fils, agés de 8 et 2 ans, m'ont montré tout ce qu'il y a à savoir sur le monde de la parentalité. Et je parle bien de tout, le bon, mais aussi le moins bon ! À l'aide de mon expérience de parent durement gagnée et grâce au pouvoir de la recherche, j'écris maintenant des articles de blogs et magazines pour aider les parents à survivre mais aussi à apprécier le monde de la parentalité. En temps que mère française habitant en Écosse, j'écris aussi bien en français qu'en anglais. Vous voulez que j'écrive pour vos lecteurs ? Contactez moi, et travaillons ensemble !"
     }
 	
     {
         English: "I also love to write stories for children to enjoy! If you are looking for an author to write children stories, I would love to hear from you!</p>",
-        French: ""
+        French: "J'adore également écrire des histoires pour les enfants ! Si vous cherchez un auteur jeunesse pour écrire des histoires que les enfants aimeront, j'aimerais beaucoup en savoir plus sur votre projet !"
     }
 	
     {
