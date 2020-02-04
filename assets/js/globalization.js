@@ -43,7 +43,18 @@ var TranslatedStrings = [
         Key: "auteurJeunesse",
         English: "I also love to write stories for children to enjoy! If you are looking for an author to write children stories, I would love to hear from you!</p>",
         French: "J'adore également écrire des histoires pour les enfants ! Si vous cherchez un auteur jeunesse pour écrire des histoires que les enfants aimeront, j'aimerais beaucoup en savoir plus sur votre projet !"
-    }
+    },
+    {
+        Key: "birth",
+        English: "<span>Date of birth:</span> 28 March 1991",
+        French: "<span>Date de naissance:</span> 28 mars 1991"
+    },
+    {
+        Key: "location",
+        English: "<span>Location:</span> Scotland, UK",
+        French: "<span>Location:</span> Écosse, Royaume-Uni"
+    },
+	
 ];
 
 // Global var :(
