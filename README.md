@@ -23,9 +23,9 @@ If you need something to be translated, here is how you should do:
 	- Updating an existing entry
 	- Adding a new object. Copy/paste this block of code at the end of the array after the last object's `}` and before the line with `];`: 
 ```javascript
-	,
+    ,
     {
-		Key: "textKey",
+        Key: "textKey",
         English: "Freelance writer and children's books author",
         French: "Petite patate qui fait des livres pour des petites patates"
     }
