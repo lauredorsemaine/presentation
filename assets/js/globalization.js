@@ -5,7 +5,42 @@ var TranslatedStrings = [
     },
     {
         English: "Parenting freelance writer and children's books author",
-        French: "Ecrivain freelance d'articles sur la parentalité et auteur de livres jeunesse"
+        French: "Écrivain freelance d'articles sur la parentalité et auteur de livres jeunesse"
+    }
+	
+    {
+        English: "About Me",
+        French: "À propos de moi"
+    }
+	
+    {
+        English: "Laure Dorsemaine is a freelance writer specialized in writing blog posts and articles about the parenting world. Her own experience as a mother combined with her dedication to research offer her clients articles of the best quality.",
+        French: "Laure Dorsemaine est un écrivain freelance spécialisée dans la rédaction d'articles au sujet du monde de la parentalité. Son expérience personnelle en temps que mère combinée à ses recherches rigoureuses offrent à ses clients des articles de la meilleure qualité."
+    }
+
+    {
+        English: "Laure is also a children's books author. She has written two picture books published by Belin.",
+        French: "Laure est aussi auteur de livres jeunesse. Elle a écrit deux albums jeunesse publiés aux éditions Belin."
+    }
+	
+    {
+        English: "Hiya! I'm Laure Dorsemaine",
+        French: "Bonjour ! Je suis Laure Dorsemaine"
+    }
+	
+    {
+        English: "My two sons, aged 8 and 2, showed me everything there is to know about the parenting world. And I mean the good, the bad, and the ugly! Using my hard won parenting experience and with the power of research, I now write blog posts and articles to help other parents survive and enjoy the parenting world. As a French mother living in Scotland, I write both in English and in French. Do you want me to write for your readers? Contact me and let's work together!",
+        French: "Mes deux fils, agés de 8 et 2 ans, m'ont montré tout ce qu'il y a à savoir sur le monde de la parentalité. Et je parle bien de tout, le bon, mais aussi le moins bon ! À l'aide de mon expérience de parent durement gagnée "
+    }
+	
+    {
+        English: "I also love to write stories for children to enjoy! If you are looking for an author to write children stories, I would love to hear from you!</p>",
+        French: ""
+    }
+	
+    {
+        English: "",
+        French: ""
     }
 ];
 
