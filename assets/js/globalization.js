@@ -55,11 +55,15 @@ var TranslatedStrings = [
         French: "28 mars 1991"
     },
     {
+        Key: "locationLabel",
+        English: "Location:",
+        French: "Position:"
+    },
+    {
         Key: "location",
         English: "Scotland, UK",
         French: "Écosse, Royaume-Uni"
-    },
-	
+    }	
 ];
 
 // Global var :(

@@ -823,7 +823,7 @@ p {
   color: #754ef9; }
 .about-content .single-info .info-text {
   padding-left: 13px; }
-  .about-content .single-info .info-text p span {
+  .about-content .single-info .info-text p span.dark {
     color: #32333c; }
 
 .about-skills .skill-item .skill-header {
