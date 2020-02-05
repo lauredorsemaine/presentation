@@ -71,8 +71,8 @@ var TranslatedStrings = [
     },
     {
         Key: "projectOnMindTwo",
-        English: "Whether you are a magazine editor needing an article about the best way to engage a child with creative activities, or a blog writer needing an essay about the challenges and perks of raising kids while being an expat' mother, I am the parenting writer you are looking for! And if you are looking for written content to grow a business related to families and kids, look no further!",
-        French: "Que vous soyez un éditeur de magazine voulant un article sur le meilleur moyen d'amener un enfant à se plonger dans des activités créatives, ou un auteur de blog ayant besoin d'un essai sur les difficultés et avantages d'être une mère expat', je suis l'auteur qu'il vous faut ! Et si vous cherchez un rédacteur web pour faire grandir votre business relatif à la famille et les enfants, ne cherchez pas plus loin !"
+        English: "Maybe you are a magazine editor needing an article about the best way to engage a child with creative activities? Or are you a blog writer looking for an essay about the challenges and perks of raising kids while being an expat' mother? Maybe you are a business related to family and children looking for written content to grow your website ? Either ways, look no further! I am the parenting writer you are looking for! ",
+        French: "Peut-être êtes-vous un éditeur de magazine qui veut un article sur le meilleur moyen d'amener un enfant à se plonger dans des activités créatives ? Etes-vous plutôt un auteur de blog ayant besoin d'un essai sur les difficultés et avantages d'être une mère expat' ? Peut-être êtes-vous une entreprise en rapport avec la famille et les enfants et vous cherchez un rédacteur web pour faire grandir votre site web ? Quoi qu'il en soit, ne cherchez pas plus loin ! Je suis l'auteur qu'il vous faut !"
     },
     {
         Key: "projectOnMindThree",
