@@ -71,14 +71,24 @@ var TranslatedStrings = [
     },
     {
         Key: "projectOnMindTwo",
-        English: "Maybe you are a magazine editor needing an article about the best way to engage a child with creative activities? Or are you a blog writer looking for an essay about the challenges and perks of raising kids while being an expat' mother? Maybe you are a business related to family and children looking for written content to grow your website ? Either ways, look no further! I am the parenting writer you are looking for! ",
-        French: "Peut-être êtes-vous un éditeur de magazine qui veut un article sur le meilleur moyen d'amener un enfant à se plonger dans des activités créatives ? Etes-vous plutôt un auteur de blog ayant besoin d'un essai sur les difficultés et avantages d'être une mère expat' ? Peut-être êtes-vous une entreprise en rapport avec la famille et les enfants et vous cherchez un rédacteur web pour faire grandir votre site web ? Quoi qu'il en soit, ne cherchez pas plus loin ! Je suis l'auteur qu'il vous faut !"
+        English: "Maybe you are a magazine editor in need of an article about the best way to engage a child with creative activities? Or are you a blog writer looking for an essay about the challenges and perks of raising kids as an expat' mother? Maybe you are a business related to family and children looking for written content to grow your website ? Or a publisher searching for a new picture book? Either ways, look no further! I am the parenting writer you are looking for, and I am looking forward to hearing everything about your project! ",
+        French: "Peut-être êtes-vous un éditeur de magazine qui veut un article sur le meilleur moyen d'amener un enfant à se plonger dans des activités créatives ? Etes-vous plutôt un auteur de blog ayant besoin d'un essai sur les difficultés et avantages d'être une mère expat' ? Peut-être êtes-vous une entreprise en rapport avec la famille et les enfants et vous cherchez un rédacteur web pour faire grandir votre site web ? Ou un éditeur à la recherche d'un nouvel album jeunesse ? Quoi qu'il en soit, ne cherchez pas plus loin ! Je suis l'auteur qu'il vous faut et j'ai hâte d'en savoir plus au sujet de votre projet !"
     },
     {
         Key: "projectOnMindThree",
         English: "Hire me",
         French: "Me contacter"
-    }	
+    },
+    {
+        Key: "keepInTouch",
+        English: "Keep in touch",
+        French: "Me contacter"
+    },
+    {
+        Key: "keepInTouchText",
+        English: "I would love to hear more about your project so we can work together! You can either contact me by email or by using my online contact form.",
+        French: "J'aimerais beaucoup en savoir plus sur votre projet pour qu'on puisse travailler ensemble ! Vous pouvez me contacter soit par mail soit via mon formulaire en ligne."
+    }
 ];
 
 // Global var :(
