@@ -1,0 +1,20 @@
+/*===========================
+    Homemade CSS rules
+===========================*/
+.lg-view{
+   display:inline-block;
+}
+
+.sm-view{
+   display:none;
+}
+
+@media screen and (max-width: 750px) {
+    .lg-view{
+       display:none;
+    }
+
+    .sm-view{
+       display:inline-block;
+    }
+}

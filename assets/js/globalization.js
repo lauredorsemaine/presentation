@@ -80,17 +80,8 @@ var mlr = function({
         // Reset the menu	
 		languageDropdown.value = "English";
 		
-		// Add English
-		let option = document.createElement("option");
-		option.value = "English";
-		option.setAttribute("data-content", "<span class=\"flag-icon flag-icon-gb\"></span> English");
-		languageDropdown.appendChild(option);
-		
-		// Add French
-		option = document.createElement("option");
-		option.value = "French";
-		option.setAttribute("data-content", "<span class=\"flag-icon flag-icon-fr\"></span> Français");
-		languageDropdown.appendChild(option);
+		buildLanguageOption("English", "English", "En", "gb");
+		buildLanguageOption("French", "Français", "Fr", "fr");
 		
 		$('#languageDropdown').selectpicker();
         $('#languageDropdown').on("change", function(e) {
@@ -109,6 +100,16 @@ var mlr = function({
             stringToBeResolved.textContent = resolvedText;
         });
     }
+	
+    function buildLanguageOption(optionValue, optionText, shortOptionText, flagCode) {
+		let option = document.createElement("option");
+		option.value = optionValue;
+		let dataContent = `<span class=\"flag-icon flag-icon-${flagCode}\"></span> `
+			+ `<span class="lg-view">${optionText}</span>`
+			+ `<span class="sm-view">${shortOptionText}</span>`;
+		option.setAttribute("data-content", dataContent);
+		languageDropdown.appendChild(option);
+	}
 };
 
 function resolveMLString(mLstrings, key) {
