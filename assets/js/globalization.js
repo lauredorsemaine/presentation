@@ -6,7 +6,7 @@ var TranslatedStrings = [
     },
     {
         Key: "test1",
-        English: "Parenting freelance writer and children's books author",
+        English: "Freelance parenting writer and children's books author",
         French: "Écrivain freelance d'articles sur la parentalité et auteur de livres jeunesse"
     },
     {
@@ -21,8 +21,8 @@ var TranslatedStrings = [
     },
     {
         Key: "sheIsTwo",
-        English: "Laure is also a children's books author. She has written two picture books published by Belin.",
-        French: "Laure est aussi auteur de livres jeunesse. Elle a écrit deux albums jeunesse publiés aux éditions Belin."
+        English: "Laure is also a children's books author. She has written two picture books published in 2017 and 2019 by Belin Jeunesse.",
+        French: "Laure est aussi auteur de livres jeunesse. Elle a écrit deux albums jeunesse publiés en 2017 et 2019 aux éditions Belin Jeunesse."
     },
     {
         Key: "hiya",
