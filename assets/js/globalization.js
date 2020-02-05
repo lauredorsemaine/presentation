@@ -72,20 +72,20 @@ var mlrLangInUse;
 var mlr = function({
     dropID = "languageDropdown",
     stringAttribute = "translated-text",
-    chosenLang = "English",
     mLstrings = TranslatedStrings
 } = {}) {
     const root = document.documentElement;
-    mlrLangInUse = chosenLang;
 	
     (function createMLDrop() {
         var languageDropdown = document.getElementById(dropID);
 		
         const urlParams = new URLSearchParams(window.location.search);
 		if (urlParams.get('l') == "fr") {
+			mlrLangInUse = "French";
 			buildLanguageOption("French", "Français", "Fr", "fr");
 			buildLanguageOption("English", "English", "En", "gb");
 		} else {
+			mlrLangInUse = "English";
 			buildLanguageOption("English", "English", "En", "gb");
 			buildLanguageOption("French", "Français", "Fr", "fr");
 		}
@@ -137,6 +137,5 @@ function resolveMLString(mLstrings, key) {
 mlr({
     dropID: "languageDropdown",
     stringAttribute: "translated-text",
-    chosenLang: "English",
     mLstrings: TranslatedStrings
 });
