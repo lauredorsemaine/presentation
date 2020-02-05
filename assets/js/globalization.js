@@ -81,11 +81,14 @@ var mlr = function({
     (function createMLDrop() {
         var languageDropdown = document.getElementById(dropID);
 		
-        // Reset the menu	
-		languageDropdown.value = "English";
-		
-		buildLanguageOption("English", "English", "En", "gb");
-		buildLanguageOption("French", "Français", "Fr", "fr");
+        const urlParams = new URLSearchParams(window.location.search);
+		if (urlParams.get('l') == "fr") {
+			buildLanguageOption("French", "Français", "Fr", "fr");
+			buildLanguageOption("English", "English", "En", "gb");
+		} else {
+			buildLanguageOption("English", "English", "En", "gb");
+			buildLanguageOption("French", "Français", "Fr", "fr");
+		}
 		
 		$('#languageDropdown').selectpicker();
         $('#languageDropdown').on("change", function(e) {
