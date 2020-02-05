@@ -63,6 +63,21 @@ var TranslatedStrings = [
         Key: "location",
         English: "Scotland, UK",
         French: "Écosse, Royaume-Uni"
+    },
+    {
+        Key: "projectOnMind",
+        English: "Do you have a project on mind?",
+        French: "Avez-vous un projet en tête ?"
+    },
+    {
+        Key: "projectOnMindTwo",
+        English: "Whether you are a magazine editor needing an article about the best way to engage a child with creative activities, or a blog writer needing an essay about the challenges and perks of raising kids while being an expat' mother, I am the parenting writer you are looking for! And if you are looking for written content to grow a business related to families and kids, look no further!",
+        French: "Que vous soyez un éditeur de magazine voulant un article sur le meilleur moyen d'amener un enfant à se plonger dans des activités créatives, ou un auteur de blog ayant besoin d'un essai sur les difficultés et avantages d'être une mère expat', je suis l'auteur qu'il vous faut ! Et si vous cherchez un rédacteur web pour faire grandir votre business relatif à la famille et les enfants, ne cherchez pas plus loin !"
+    },
+    {
+        Key: "projectOnMindThree",
+        English: "Hire me",
+        French: "Me contacter"
     }	
 ];
 
