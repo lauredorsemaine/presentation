@@ -13,7 +13,7 @@ This repo holds the code for my personal one-page presentation.
 	- `main.js`: currently has some animation code and other stuff we don't really need to worry about
 	- `globalization.js`: see *How to add localized strings* section for more details on this one
 
-## How to add localized strings
+## How to add localized strings?
 If you need something to be translated, here is how you should do:
 1. Inside `index.html`, find the string you want to translate or add a new tag.
 2. Find the surrounding tag for the text or the new one and add the `translated-text` attribute at the end of the opening tag with a meaningful value. For instance:
@@ -31,3 +31,6 @@ If you need something to be translated, here is how you should do:
     }
 ```
 Make sure the `translated-text` value in `index.html` matches the Key value in `globalization.js`.
+
+## How to access load the page in French by default?
+By default, the page will display in English. By adding the `?l=fr` URL parameter, the default locale will be French.
