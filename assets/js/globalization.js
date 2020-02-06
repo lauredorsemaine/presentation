@@ -88,6 +88,11 @@ var TranslatedStrings = [
         Key: "keepInTouchText",
         English: "I would love to hear more about your project so we can work together! You can either contact me by email or by using my online contact form.",
         French: "J'aimerais beaucoup en savoir plus sur votre projet pour qu'on puisse travailler ensemble ! Vous pouvez me contacter soit par mail soit via mon formulaire en ligne."
+    },
+    {
+        Key: "footer",
+        English: "",
+        French: ""
     }
 ];
 
