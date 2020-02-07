@@ -31,18 +31,23 @@ var TranslatedStrings = [
     },
     {
         Key: "mesFilsUn",
-        English: "My two sons, aged 8 and 2, showed me everything there is to know about the parenting world. And I mean the good, the bad, and the ugly! Using my hard won parenting experience and with the power of research, I now write blog posts and articles to help other parents survive and enjoy the parenting world. As a French mother living in Scotland, I write both in English and in French. ",
-        French: "Mes deux fils, agés de 8 et 2 ans, m'ont montré tout ce qu'il y a à savoir sur le monde de la parentalité. Et je parle bien de tout, le bon, mais aussi le moins bon ! À l'aide de mon expérience de parent durement gagnée et grâce au pouvoir de la recherche, j'écris maintenant des articles de blogs et magazines pour aider les parents à survivre mais aussi à apprécier le monde de la parentalité. En temps que mère française habitant en Écosse, j'écris aussi bien en français qu'en anglais."
+        English: "My two sons, aged 8 and 2, showed me everything there is to know about the parenting world. And I mean the good, the bad, and the ugly! Using my hard won parenting experience and with the power of research, I now write blog posts and articles to help other parents, understand, survive, and enjoy the parenting world. As a French mother living in Scotland, I write both in English and in French. ",
+        French: "Mes deux fils, agés de 8 et 2 ans, m'ont montré tout ce qu'il y a à savoir sur le monde de la parentalité. Et je parle bien de tout, le bon, mais aussi le moins bon ! À l'aide de mon expérience de parent durement gagnée et grâce au pouvoir de la recherche, j'écris maintenant des articles de blogs et magazines pour aider les parents à comprendre, à survivre mais aussi à apprécier le monde de la parentalité. En temps que mère française habitant en Écosse, j'écris aussi bien en français qu'en anglais."
     },
     {
         Key: "mesFilsDeux",
+        English: "I am a parenting writer dedicated to her projects and who writes compelling and unique articles. You can count on me to be reliable and always respect deadlines. As a French mother living in Scotland, I can write both in English and in French. ",
+        French: "Je suis une rédactrice de textes sur la parentalité dévouée à ses projets et qui écrit des articles uniques et engageants. En temps que mère française habitant en Écosse, j'écris aussi bien en français qu'en anglais."
+    },
+    {
+        Key: "mesFilsTrois",
         English: "Do you want me to write for your readers? Contact me and let's work together!",
         French: "Vous voulez que j'écrive pour vos lecteurs ? Contactez moi, et travaillons ensemble !"
     },
     {
         Key: "auteurJeunesse",
         English: "I also love to write stories for children to enjoy! If you are looking for an author to write children stories, I would love to hear from you!",
-        French: "J'adore également écrire des histoires pour les enfants ! Si vous cherchez un auteur jeunesse pour écrire des histoires que les enfants aimeront, j'aimerais beaucoup en savoir plus sur votre projet !"
+        French: "J'adore également écrire des histoires pour les enfants ! Si vous cherchez un auteur jeunesse pour écrire des histoires que les enfants aimeront, j'aimerais beaucoup parler d'idées d'histoires avec vous !"
     },
     {
         Key: "birth",
@@ -71,8 +76,8 @@ var TranslatedStrings = [
     },
     {
         Key: "projectOnMindTwo",
-        English: "Maybe you are a magazine editor in need of an article about the best way to engage a child with creative activities? Or are you a blog writer looking for an essay about the challenges and perks of raising kids as an expat' mother? Maybe you are a business related to family and children looking for written content to grow your website ? Or a publisher searching for a new picture book? Either ways, look no further! I am the parenting writer you are looking for, and I am looking forward to hearing everything about your project! ",
-        French: "Peut-être êtes-vous un éditeur de magazine qui veut un article sur le meilleur moyen d'amener un enfant à se plonger dans des activités créatives ? Etes-vous plutôt un auteur de blog ayant besoin d'un essai sur les difficultés et avantages d'être une mère expat' ? Peut-être êtes-vous une entreprise en rapport avec la famille et les enfants et vous cherchez un rédacteur web pour faire grandir votre site web ? Ou un éditeur à la recherche d'un nouvel album jeunesse ? Quoi qu'il en soit, ne cherchez pas plus loin ! Je suis l'auteur qu'il vous faut et j'ai hâte d'en savoir plus au sujet de votre projet !"
+        English: "Are you a magazine editor in need of an informative and interesting article for parents? Are you a blog writer looking for a unique essay about a mother's experience to share with your readers? Are you a business related to family and children looking for written content to grow your website? Or a publisher searching for a new picture book? Either ways, look no further! I am the parenting writer you are looking for, and I am looking forward to hearing everything about your project! ",
+        French: "Etes-vous un éditeur de magazine à la recherche d'un article informatif et intéressant pour des parents ? Etes-vous un auteur de blog ayant besoin d'un essai sur l'expérience unique d'une mère de famille ? Etes-vous une entreprise en rapport avec la famille et les enfants à la recherche d'un rédacteur de contenu web pour faire grandir votre site internet ? Ou un éditeur à la recherche d'un nouvel album jeunesse ? Quoi qu'il en soit, ne cherchez pas plus loin ! Je suis l'auteur qu'il vous faut et j'ai hâte d'en savoir plus au sujet de votre projet !"
     },
     {
         Key: "projectOnMindThree",
