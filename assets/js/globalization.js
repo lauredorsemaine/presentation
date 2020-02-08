@@ -31,13 +31,13 @@ var TranslatedStrings = [
     },
     {
         Key: "mesFilsUn",
-        English: "My two sons, aged 8 and 2, showed me everything there is to know about the parenting world. And I mean the good, the bad, and the ugly! Using my hard won parenting experience and with the power of research, I now write blog posts and articles to help other parents, understand, survive, and enjoy the parenting world. As a French mother living in Scotland, I write both in English and in French. ",
-        French: "Mes deux fils, agés de 8 et 2 ans, m'ont montré tout ce qu'il y a à savoir sur le monde de la parentalité. Et je parle bien de tout, le bon, mais aussi le moins bon ! À l'aide de mon expérience de parent durement gagnée et grâce au pouvoir de la recherche, j'écris maintenant des articles de blogs et magazines pour aider les parents à comprendre, à survivre mais aussi à apprécier le monde de la parentalité. En temps que mère française habitant en Écosse, j'écris aussi bien en français qu'en anglais."
+        English: "My two sons, aged 8 and 2, showed me everything there is to know about the parenting world. And I mean the good, the bad, and the ugly! Using my hard won parenting experience and with the power of research, I now write blog posts and articles to help other parents to understand, survive, and enjoy the parenting world.",
+        French: "Mes deux fils, agés de 8 et 2 ans, m'ont montré tout ce qu'il y a à savoir sur le monde de la parentalité. Et je parle bien de tout, le bon, mais aussi le moins bon ! À l'aide de mon expérience de parent durement gagnée et grâce au pouvoir de la recherche, j'écris maintenant des articles de blogs et magazines pour aider les parents à comprendre, à survivre mais aussi à apprécier le monde de la parentalité."
     },
     {
         Key: "mesFilsDeux",
-        English: "I am a parenting writer dedicated to her projects and who writes compelling and unique articles. You can count on me to be reliable and always respect deadlines. As a French mother living in Scotland, I can write both in English and in French. ",
-        French: "Je suis une rédactrice de textes sur la parentalité dévouée à ses projets et qui écrit des articles uniques et engageants. En temps que mère française habitant en Écosse, j'écris aussi bien en français qu'en anglais."
+        English: "I am a parenting writer dedicated to her projects and who writes compelling and unique articles. You can count on me to be reliable and always respect deadlines. As a French mother living in Scotland, I write both in English and in French.",
+        French: "Je suis une rédactrice de textes sur la parentalité dévouée à ses projets et qui écrit des articles uniques et engageants. Vous pouvez compter sur moi pour toujours respecter les délais impartis. En temps que mère française habitant en Écosse, j'écris aussi bien en français qu'en anglais."
     },
     {
         Key: "mesFilsTrois",
@@ -91,13 +91,13 @@ var TranslatedStrings = [
     },
     {
         Key: "keepInTouchText",
-        English: "I would love to hear more about your project so we can work together! You can either contact me by email or by using my online contact form.",
-        French: "J'aimerais beaucoup en savoir plus sur votre projet pour qu'on puisse travailler ensemble ! Vous pouvez me contacter soit par mail soit via mon formulaire en ligne."
+        English: "I would love to hear more about your project so we can work together!",
+        French: "J'aimerais beaucoup en savoir plus sur votre projet pour qu'on puisse travailler ensemble !"
     },
     {
         Key: "footer",
-        English: "",
-        French: ""
+        English: "You can also find Laure Dorsemaine on LinkedIn",
+        French: "Vous pouvez aussi trouver Laure Dorsemaine sur LinkedIn"
     }
 ];
 
