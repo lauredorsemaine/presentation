@@ -98,6 +98,56 @@ var TranslatedStrings = [
         Key: "footer",
         English: "You can also find Laure Dorsemaine on LinkedIn",
         French: "Vous pouvez aussi trouver Laure Dorsemaine sur LinkedIn"
+    },
+	{
+        Key: "servicesTitle",
+        English: "My services",
+        French: "Mes services"
+    },
+	{
+        Key: "servicesSubtitle",
+        English: "Are you looking for a parenting writer to write about children and families? Here are the services I have to offer...",
+        French: "Vous recherchez un écrivain pour écrire au sujet des enfants et des familles ? Voilà les services que j'ai à vous offrir..."
+    },
+	{
+        Key: "serviceName1",
+        English: "Web content",
+        French: "Contenu web"
+    },
+	{
+        Key: "service1",
+        English: "I write blog posts, both essays and articles. I also write any kind of web content to grow business websites.",
+        French: "J'écris des articles de blogs. J'écris également toute sorte de contenu web pour faire grandir le site internet des entreprises."
+    },
+	{
+        Key: "serviceName2",
+        English: "Magazine articles",
+        French: "Articles de magazines"
+    },
+	{
+        Key: "service2",
+        English: "I write compelling articles and make sure it fits the magazine's style.",
+        French: "J'écris des articles captivants dans un style qui correspond au magazine concerné."
+    },
+	{
+        Key: "serviceName3",
+        English: "Ghost writing",
+        French: "Écriture anonyme"
+    },
+	{
+        Key: "service3",
+        English: "I can use your voice to write in your name, and be as discreet as a ghost.",
+        French: "Je peux écrire sous votre nom en respectant votre style, et être aussi discrète qu'un fantôme."
+    },
+	{
+        Key: "serviceName4",
+        English: "Picture books",
+        French: "Albums jeunesse"
+    },
+	{
+        Key: "service4",
+        English: "I am passionnate about writing for children. I always have new stories to offer!",
+        French: "Écrire pour les enfants me passionne. J'ai toujours de nouvelles histoires à proposer !"
     }
 ];
 

@@ -800,6 +800,11 @@ p {
   font-size: 18px;
   font-weight: 500;
   padding-bottom: 15px; }
+  
+.about-content p {
+  text-align: justify;
+}
+
 .about-content ul {
   padding-top: 15px; }
   .about-content ul li {
@@ -825,6 +830,9 @@ p {
   padding-left: 13px; }
   .about-content .single-info .info-text p span.dark {
     color: #32333c; }
+
+.about-image {
+   padding-top: 35px; }
 
 .about-skills .skill-item .skill-header {
   position: relative; }
