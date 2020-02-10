@@ -1,13 +1,23 @@
 var TranslatedStrings = [
     {
         Key: "hello",
-        English: "Hello, I’m",
-        French: "Bonjour, Je suis"
+        English: "Freelance parenting writer",
+        French: "Écrivain freelance et auteur jeunesse"
+    },
+	{
+        Key: "headerWork",
+        English: "View my work",
+        French: "Mon portfolio"
+    },
+	{
+        Key: "headerContact",
+        English: "Contact me",
+        French: "Me contacter"
     },
     {
         Key: "test1",
-        English: "Freelance parenting writer and children's books author",
-        French: "Écrivain freelance d'articles sur la parentalité et auteur de livres jeunesse"
+        English: "Write for you about the parenting world in blog posts, articles and web content",
+        French: "Écrit des articles sur la parentalité et des livres jeunesse"
     },
     {
         Key: "aboutMe",
@@ -50,24 +60,14 @@ var TranslatedStrings = [
         French: "J'adore également écrire des histoires pour les enfants ! Si vous cherchez un auteur jeunesse pour écrire des histoires que les enfants aimeront, j'aimerais beaucoup parler d'idées d'histoires avec vous !"
     },
     {
-        Key: "birth",
-        English: "Date of birth:",
-        French: "Date de naissance:"
-    },
-    {
-        Key: "birthDate",
-        English: "28 March 1991",
-        French: "28 mars 1991"
-    },
-    {
         Key: "locationLabel",
         English: "Location:",
         French: "Position:"
     },
     {
         Key: "location",
-        English: "Scotland, UK",
-        French: "Écosse, Royaume-Uni"
+        English: "Dundee, Scotland, UK",
+        French: "Dundee, Écosse, Royaume-Uni"
     },
     {
         Key: "projectOnMind",
