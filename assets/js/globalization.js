@@ -16,7 +16,7 @@ var TranslatedStrings = [
     },
     {
         Key: "test1",
-        English: "Write for you about the parenting world in blog posts, articles and web content",
+        English: "Write blog posts, articles and web content about the parenting world",
         French: "Écrit des articles sur la parentalité et des livres jeunesse"
     },
     {
@@ -96,8 +96,8 @@ var TranslatedStrings = [
     },
     {
         Key: "footer",
-        English: "You can also find Laure Dorsemaine on LinkedIn",
-        French: "Vous pouvez aussi trouver Laure Dorsemaine sur LinkedIn"
+        English: "",
+        French: ""
     },
 	{
         Key: "servicesTitle",
@@ -148,6 +148,21 @@ var TranslatedStrings = [
         Key: "service4",
         English: "I am passionnate about writing for children. I always have new stories to offer!",
         French: "Écrire pour les enfants me passionne. J'ai toujours de nouvelles histoires à proposer !"
+    },
+    {
+        Key: "workTitle",
+        English: "My recent work",
+        French: "Mes publications récentes"
+    },
+    {
+        Key: "workSubtitle",
+        English: "",
+        French: ""
+    },
+	{
+        Key: "asSeenOn",
+        English: "As seen On",
+        French: "Retrouvez ses écrits ici"
     }
 ];
 
