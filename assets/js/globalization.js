@@ -81,8 +81,8 @@ var TranslatedStrings = [
     },
     {
         Key: "keepInTouchText",
-        English: "I would love to hear more about your project. Contact me by email so we can work together.",
-        French: "J'aimerais beaucoup en savoir plus sur votre projet. Contactez moi par mail pour qu'on puisse travailler ensemble."
+        English: "Do you want to work with me? Contact me by email and tell me more about your project!",
+        French: "Vous voulez travailler avec moi ? Contactez moi par mail et dites m'en plus sur votre projet !"
     },
     {
         Key: "footer",
@@ -96,7 +96,7 @@ var TranslatedStrings = [
     },
     {
         Key: "servicesSubtitle",
-        English: "Are you looking for a parenting writer to write about children and families? Here are the services I have to offer...",
+        English: "Are you looking for a freelance parenting writer to write about children and families? Here are the services I have to offer...",
         French: "Vous recherchez un écrivain pour écrire au sujet des enfants et des familles ? Voilà les services que j'ai à vous offrir..."
     },
     {
@@ -106,17 +106,17 @@ var TranslatedStrings = [
     },
     {
         Key: "service1",
-        English: "I write blog posts, both essays and articles. I also write any kind of web content to grow business websites.",
+        English: "I write any kind of web content to grow business websites.",
         French: "J'écris des articles de blogs. J'écris également toute sorte de contenu web pour faire grandir le site internet des entreprises."
     },
     {
         Key: "serviceName2",
-        English: "Magazine articles",
+        English: "Magazine and blog articles",
         French: "Articles de magazines"
     },
     {
         Key: "service2",
-        English: "I write compelling articles and make sure it fits the magazine's style.",
+        English: "I write compelling articles and essays that fits your magazine's or blog's style.",
         French: "J'écris des articles captivants dans un style qui correspond au magazine concerné."
     },
     {
