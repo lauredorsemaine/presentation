@@ -31,7 +31,7 @@ var TranslatedStrings = [
     },
     {
         Key: "aboutOne",
-        English: "Using my parenting experience as a mother of two and the power of research, I write compelling blog posts and articles to inform and entertain parents. I also use my expertise for businesses, to write relevant content that will attract and engage customers.",
+        English: "Using my parenting experience as a mother of two and the power of research, I write compelling blog posts and articles to inform and entertain parents. I use my expertise for businesses too, to write relevant content that will attract and engage customers.",
         French: "À l'aide de mon expérience en tant que mère de deux enfants et grâce au pouvoir de la recherche, j'écris des articles de blogs et magazines pour informer et divertir les parents. J'utilise aussi mes compétences pour les entreprises, pour écrire du contenu pertinent qui saura attirer et conserver leurs clients."
     },
     {
@@ -46,8 +46,8 @@ var TranslatedStrings = [
     },
     {
         Key: "aboutFour",
-        English: "I also love to write stories for children to enjoy! ",
-        French: "J'adore également écrire des histoires pour les enfants !"
+        English: "I also love to write stories for children to enjoy.",
+        French: "J'adore également écrire des histoires pour les enfants."
     },
     {
         Key: "locationLabel",
@@ -96,8 +96,8 @@ var TranslatedStrings = [
     },
     {
         Key: "servicesSubtitle",
-        English: "Are you looking for a freelance parenting writer to write about children and families? Here are the services I have to offer...",
-        French: "Vous recherchez un écrivain pour écrire au sujet des enfants et des familles ? Voilà les services que j'ai à vous offrir..."
+        English: "",
+        French: ""
     },
     {
         Key: "serviceName1",
@@ -106,18 +106,18 @@ var TranslatedStrings = [
     },
     {
         Key: "service1",
-        English: "I write any kind of web content to grow business websites.",
-        French: "J'écris des articles de blogs. J'écris également toute sorte de contenu web pour faire grandir le site internet des entreprises."
+        English: "Using SEO, I write blog posts that connect customers to your business and provide them compelling content related to your product.",
+        French: "Tout en utilisant des stratégies de référencement (SEO), j'écris des articles de blogs qui connectent les clients à votre entreprise et leur offrent de la lecture intéressante en raport avec vos produits."
     },
     {
         Key: "serviceName2",
         English: "Magazine and blog articles",
-        French: "Articles de magazines"
+        French: "Articles de magazines et de blogs"
     },
     {
         Key: "service2",
-        English: "I write compelling articles and essays that fits your magazine's or blog's style.",
-        French: "J'écris des articles captivants dans un style qui correspond au magazine concerné."
+        English: "Using my own experience as a mother and the strength of research, I write lively articles and essays, making sure they fits your magazine's or blog's style.",
+        French: "A l'aide de ma propre expérience en temps que mère additionnée à de serieuses recherches, j'écris des articles captivants dans un style qui saura correspondre au style de votre blog ou magazine."
     },
     {
         Key: "serviceName3",
