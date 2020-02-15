@@ -111,7 +111,7 @@ var TranslatedStrings = [
     },
     {
         Key: "service1",
-        English: "Through blog posts and with the use of SEO, I will connect customers to your business. The compelling content related to your products will enhance their experience with you and make them come back for more.",
+        English: "Through blog posts and with the use of SEO, I connect customers to businesses. The compelling content related to your products will enhance their experience with you and make them come back for more.",
         French: "A l'aide d'articles de blog et en utilisant des stratégies de référencement (SEO), je connecterais les clients à votre entreprise. Le contenu intéressant et en rapport avec vos produits renforcera l'éxpérience que vous leur procurez et les fera revenir dans l'espoir dans lire plus."
     },
     {
@@ -141,8 +141,8 @@ var TranslatedStrings = [
     },
     {
         Key: "service4",
-        English: "Kids will love to hear my stories in picture books. I always have new story ideas to write!",
-        French: "Les enfants vont adorer écouter mes histoires publiées en albums jeunesse. J'ai toujours de nouvelles idées d'histoires à raconter !"
+        English: "Kids love to hear my stories through picture books. I always have new story ideas to write!",
+        French: "Les enfants qdorent écouter mes histoires publiées en albums jeunesse. J'ai toujours de nouvelles idées d'histoires à raconter !"
     },
     {
         Key: "workTitle",
