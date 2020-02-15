@@ -31,23 +31,28 @@ var TranslatedStrings = [
     },
     {
         Key: "aboutOne",
-        English: "Using my parenting experience as a mother of two and the power of research, I write compelling blog posts and articles to inform and entertain parents. I use my expertise for businesses too, to write relevant content that will attract and engage customers.",
-        French: "À l'aide de mon expérience en tant que mère de deux enfants et grâce au pouvoir de la recherche, j'écris des articles de blogs et magazines pour informer et divertir les parents. J'utilise aussi mes compétences pour les entreprises, pour écrire du contenu pertinent qui saura attirer et conserver leurs clients."
+        English: "Using my parenting experience as a mother and the power of research, I write compelling blog posts and articles to inform and entertain parents. I learned the good, the bad, and the ugly sides of parenting by looking after my two wonderful sons, aged 8 and 2. I learn the rest of what there is to know by interviewing other parents and experts, and by reading the latest studies available.",
+        French: "À l'aide de mon expérience en tant que mère et grâce au pouvoir de la recherche, j'écris des articles de blogs et magazines pour informer et divertir les parents. J'ai découvert le bon côté et le moins bon côté de la parentalité grâce à mes deux merveilleux fils (agés de 8 et 2 ans). Je découvre le reste de ce qu'il y a à savoir en parlant aux autres parents et aux experts, ainsi qu'en lisant les toutes dernières études disponibles."
+    },
+	{
+        Key: "aboutOneBis",
+        English: "I use my expertise for businesses too, to write relevant content about products for kids or parents that will attract and engage customers.",
+        French: "J'utilise aussi mes compétences pour les entreprises, pour écrire du contenu pertinent qui saura attirer et conserver leurs clients."
+    },
+	{
+        Key: "aboutFour",
+        English: "I also love to write stories for children to enjoy.",
+        French: "J'adore également écrire des histoires pour les enfants."
     },
     {
         Key: "aboutTwo",
-        English: "As a French mother living in Scotland, I write both in English and in French.",
-        French: "En temps que mère française habitant en Écosse, j'écris aussi bien en français qu'en anglais."
+        English: "As a French mother living in Scotland, I write both in English and in French, and am lucky to have gained the parenting insights of these two different cultures.",
+        French: "En temps que mère française habitant en Écosse, j'écris aussi bien en français qu'en anglais et j'ai la chance de bénéficier des idées des deux différentes cultures au regard de la parentalité."
     },
     {
         Key: "aboutThree",
         English: "Do you want me to write for your readers? Contact me and let's work together!",
         French: "Vous voulez que j'écrive pour vos lecteurs ? Contactez moi, et travaillons ensemble !"
-    },
-    {
-        Key: "aboutFour",
-        English: "I also love to write stories for children to enjoy.",
-        French: "J'adore également écrire des histoires pour les enfants."
     },
     {
         Key: "locationLabel",
@@ -86,8 +91,8 @@ var TranslatedStrings = [
     },
     {
         Key: "footer",
-        English: "",
-        French: ""
+        English: "Laure Dorsemaine",
+        French: "Laure Dorsemaine"
     },
     {
         Key: "servicesTitle",
@@ -106,18 +111,18 @@ var TranslatedStrings = [
     },
     {
         Key: "service1",
-        English: "Using SEO, I write blog posts that connect customers to your business and provide them compelling content related to your product.",
-        French: "Tout en utilisant des stratégies de référencement (SEO), j'écris des articles de blogs qui connectent les clients à votre entreprise et leur offrent de la lecture intéressante en raport avec vos produits."
+        English: "Through blog posts and with the use of SEO, I will connect customers to your business. The compelling content related to your products will enhance their experience with you and make them come back for more.",
+        French: "A l'aide d'articles de blog et en utilisant des stratégies de référencement (SEO), je connecterais les clients à votre entreprise. Le contenu intéressant et en rapport avec vos produits renforcera l'éxpérience que vous leur procurez et les fera revenir dans l'espoir dans lire plus."
     },
     {
         Key: "serviceName2",
-        English: "Magazine and blog articles",
-        French: "Articles de magazines et de blogs"
+        English: "Magazine and blog",
+        French: "Magazines et blogs"
     },
     {
         Key: "service2",
-        English: "Using my own experience as a mother and the strength of research, I write lively articles and essays, making sure they fits your magazine's or blog's style.",
-        French: "A l'aide de ma propre expérience en temps que mère additionnée à de serieuses recherches, j'écris des articles captivants dans un style qui saura correspondre au style de votre blog ou magazine."
+        English: "Parents will enjoy reading my lively articles and essays, based on researches and my own experience as a mother. You will appreciate my ability to make my stories fit your magazine's or blog's style.",
+        French: "Les parents apprécieront de lire mes articles captivants dans un style qui saura correspondre à votre blog ou magazine."
     },
     {
         Key: "serviceName3",
@@ -136,8 +141,8 @@ var TranslatedStrings = [
     },
     {
         Key: "service4",
-        English: "I am passionnate about writing for children. I always have new stories to offer!",
-        French: "Écrire pour les enfants me passionne. J'ai toujours de nouvelles histoires à proposer !"
+        English: "Kids will love to hear my stories in picture books. I always have new story ideas to write!",
+        French: "Les enfants vont adorer écouter mes histoires publiées en albums jeunesse. J'ai toujours de nouvelles idées d'histoires à raconter !"
     },
     {
         Key: "workTitle",
